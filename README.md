@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Engineering and Data Architecture.
 - 🌱 I’m currently learning Terraform, GCP - BigQuery, Data Fusion and Cloud Functions.
 - 💞️ I’m looking to collaborate on Python projects
-- 📫 How to reach me : by email on f.carneiro@outlook.pt.
+- 📫 How to reach me : by email on francisco.vidal.carneiro@gmail.com.
 
 You can find my StackOverflow profile [here](https://stackoverflow.com/users/13568108/fvcc).
 
